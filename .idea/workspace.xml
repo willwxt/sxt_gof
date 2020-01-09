@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77a3361f-fa85-4d66-8970-286c8f76176a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nampy/gof/factory/factoryMethod/AudiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nampy/gof/factory/factoryMethod/BydFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nampy/gof/factory/factoryMethod/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nampy/gof/factory/factoryMethod/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nampy/gof/factory/simplefactory/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nampy/gof/factory/simplefactory/CarFactory2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nampy/gof/factory/simplefactory/Client02.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/field/工厂模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/field/工厂模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/field/工厂模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/field/工厂模式.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,12 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/field/工厂模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="417">
-                <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <first_editor relative-caret-position="210">
+                <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -66,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/factoryMethod/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -79,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/simplefactory/Client01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -106,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/simplefactory/CarFactory2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#215#216#0" expanded="true" />
                 <element signature="e#247#248#0" expanded="true" />
@@ -121,7 +130,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/field/单例模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="690">
+              <first_editor relative-caret-position="380">
                 <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
               </first_editor>
               <second_editor />
@@ -163,11 +172,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/simplefactory/CarFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/simplefactory/Client02.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/simplefactory/CarFactory2.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/field/工厂模式.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/factoryMethod/CarFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/factoryMethod/AudiFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/factoryMethod/BydFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/factoryMethod/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/field/工厂模式.md" />
       </list>
     </option>
   </component>
@@ -261,18 +270,6 @@
               <item name="sxt_gof" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nampy" type="462c0819:PsiDirectoryNode" />
-              <item name="gof" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="factoryMethod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sxt_gof" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sxt_gof" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -328,7 +325,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client01">
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nampy.gof.factory.factoryMethod.Client" />
+      <module name="sxt_gof" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nampy.gof.factory.factoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nampy.gof.singleton.Client" />
       <module name="sxt_gof" />
@@ -381,26 +391,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nampy.gof.Main" />
-      <module name="sxt_gof" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nampy.gof.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client01" />
         <item itemvalue="Application.Client3" />
         <item itemvalue="Application.Client2" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +412,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578200783973</updated>
       <workItem from="1578200785919" duration="9254000" />
-      <workItem from="1578578829256" duration="2411000" />
+      <workItem from="1578578829256" duration="3302000" />
     </task>
     <task id="LOCAL-00001" summary="init sxt gof">
       <created>1578201275663</created>
@@ -438,11 +435,18 @@
       <option name="project" value="LOCAL" />
       <updated>1578209943905</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加简单工厂模式&#10;增加工厂方法模式">
+      <created>1578581366887</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578581366887</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11665000" />
+    <option name="totallyTimeSpent" value="12556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="932" y="0" width="995" height="1047" extended-state="0" />
@@ -486,7 +490,8 @@
     <MESSAGE value="init sxt gof" />
     <MESSAGE value="增加五种单例模式的实现方式!" />
     <MESSAGE value="增加测试五种单例模式效率的方法!" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加测试五种单例模式效率的方法!" />
+    <MESSAGE value="增加简单工厂模式&#10;增加工厂方法模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加简单工厂模式&#10;增加工厂方法模式" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nampy/gof/Main.java">
@@ -618,7 +623,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/simplefactory/Client01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -639,33 +644,13 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/simplefactory/CarFactory2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#215#216#0" expanded="true" />
             <element signature="e#247#248#0" expanded="true" />
             <element signature="e#283#284#0" expanded="true" />
             <element signature="e#315#316#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/field/单例模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="690">
-            <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/field/工厂模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="417">
-            <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -703,7 +688,27 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nampy/gof/factory/factoryMethod/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/field/单例模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="380">
+            <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/field/工厂模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
