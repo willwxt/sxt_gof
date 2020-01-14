@@ -1,12 +1,10 @@
 package com.nampy.gof.prototype;
 
-import javafx.scene.chart.PieChart;
-
 import java.util.Date;
 
 /**
  * @author nampy at 2020/1/13
- * @description 测试原型模式(浅克隆, 深克隆)
+ * @Description 测试原型模式(浅克隆, 深克隆)
  */
 public class Client {
     public static void main(String[] args) throws CloneNotSupportedException {
