@@ -3,6 +3,7 @@ package com.nampy.gof.prototype;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
+import java.io.Serializable;
 import java.util.Date;
 
 /**
@@ -11,7 +12,7 @@ import java.util.Date;
  */
 @AllArgsConstructor
 @Data
-public class Sheep implements Cloneable {
+public class Sheep implements Cloneable, Serializable {
     private String sname;
     private Date birthday;
 
